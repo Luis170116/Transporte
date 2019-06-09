@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.contenedor{
+  background-color:red;
+}
+
+.LocalidadBus{
+  background-color:gold;
+}
+
+
+.PrecioPasaje{
+  background-color: magenta(85, 85, 216);
+}
+
+.DetalleBus{
+  background-color:cyan;
+  font-size:30px;
+	color:black;
+	font-family: 'Times New Roman', Times, serif
+}
